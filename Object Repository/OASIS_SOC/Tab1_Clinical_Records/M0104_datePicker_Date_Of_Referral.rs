@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>M0104_datePicker_Date_Of_Referral</name>
+   <tag></tag>
+   <elementGuidId>1106ab7a-23c3-46c7-b617-8d8930bae421</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>#m0104_physn_rfrl_dt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>#m0104_physn_rfrl_dt</value>
+   </webElementProperties>
+</WebElementEntity>

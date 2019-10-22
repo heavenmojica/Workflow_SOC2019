@@ -34,4 +34,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/OASIS_SOC/Tab1_Clinical_Records</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>8850d4f1-59dd-44fa-95e7-1e9966151159</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/OASIS_SOC/Tab2_Diagnosis</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>

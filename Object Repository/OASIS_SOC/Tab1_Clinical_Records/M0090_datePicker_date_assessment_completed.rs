@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>M0090_datePicker_date_assessment_completed</name>
+   <tag></tag>
+   <elementGuidId>fdeba005-9a36-4c6c-892d-46cd29c4872f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>#m0090_info_completed_dt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>#m0090_info_completed_dt</value>
+   </webElementProperties>
+</WebElementEntity>

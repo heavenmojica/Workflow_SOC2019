@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>M0010_txt_CMS_Certification_Number</name>
+   <tag></tag>
+   <elementGuidId>408cc201-f9a5-4bb3-913b-51e7440ba224</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>#M0010_CCN</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;oasisForm&quot;]/fieldset/table/tbody/tr[1]/td[3]/table/tbody/tr/td/div/div/text-input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>#M0010_CCN</value>
+   </webElementProperties>
+</WebElementEntity>
