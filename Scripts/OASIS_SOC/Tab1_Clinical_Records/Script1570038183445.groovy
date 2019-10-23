@@ -16,7 +16,6 @@ import internal.GlobalVariable as GlobalVariable
 //WebUI.delay(10)
 //WebUI.setText(findTestObject('OASIS_SOC/Tab1_Clinical_Records/M0010_txt_CMS_Certification_Number'), '557443')
 
-WebUI.delay(10)
 // M0010
 // NOT WORKING
 //WebUI.setText(findTestObject('OASIS_SOC/Tab1_Clinical_Records/M0010_txt_CMS_Certification_Number'), '557443')
