@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Fill_SOC</name>
+   <name>Fill_SOC_Tab3_Medical_History</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -9,39 +9,27 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <testSuiteGuid>bc7b4fc2-480b-495d-899c-aa4fb89fc862</testSuiteGuid>
+   <testSuiteGuid>4c66598f-f189-46a2-8dc5-51428b303780</testSuiteGuid>
    <testCaseLink>
-      <guid>e9c2688b-7c44-45c3-be06-6e96f4cb97fb</guid>
+      <guid>2908a310-4ca2-49f7-b14d-464ba8bbc84b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Login</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>c735238a-43ee-4b22-883b-96f72ebf318b</guid>
+      <guid>5a585783-67c3-418f-8612-3c437ed5f326</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Call_Patient</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>bc0237e8-20b9-445f-80ac-ab7ce5805d6d</guid>
+      <guid>fadc85be-5d1f-4863-bdc3-75ab590be024</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/OASIS_SOC/Redirection_SOC</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>b6722c78-c40b-425a-a035-0b1479032e18</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/OASIS_SOC/Tab1_Clinical_Records</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>8850d4f1-59dd-44fa-95e7-1e9966151159</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/OASIS_SOC/Tab2_Diagnosis</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>210bae3e-125e-46ed-8687-c28614bc3204</guid>
+      <guid>41060542-48ea-4b26-8686-9bf9d61fbad1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/OASIS_SOC/Tab3_Medical_History</testCaseId>

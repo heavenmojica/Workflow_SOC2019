@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_tetanus_date</name>
+   <tag></tag>
+   <elementGuidId>87edeb35-ff39-46cc-a9a6-c127ffca96aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;medicalForm&quot;]/fieldset/table/tbody/tr[34]/td/table/tbody/tr[4]/td[3]/input
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;medicalForm&quot;]/fieldset/table/tbody/tr[34]/td/table/tbody/tr[4]/td[3]/input
+</value>
+   </webElementProperties>
+</WebElementEntity>

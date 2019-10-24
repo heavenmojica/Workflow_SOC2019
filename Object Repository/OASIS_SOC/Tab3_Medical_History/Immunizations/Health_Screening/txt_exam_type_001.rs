@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_exam_type_001</name>
+   <tag></tag>
+   <elementGuidId>806a3ffd-8f60-41f9-91c1-189b7af83ad8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;medicalForm&quot;]/fieldset/table/tbody/tr[36]/td/table/tbody/tr[1]/td[2]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>&lt;input type=&quot;text&quot; name=&quot;hospitalProced&quot; ng-model=&quot;pi.SOOMEDICAL0132[$index].type&quot; class=&quot;global__txtbox ng-pristine ng-valid ng-empty ng-touched&quot; placeholder=&quot;&quot; style=&quot;&quot;></value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;medicalForm&quot;]/fieldset/table/tbody/tr[36]/td/table/tbody/tr[1]/td[2]/div/input</value>
+   </webElementProperties>
+</WebElementEntity>

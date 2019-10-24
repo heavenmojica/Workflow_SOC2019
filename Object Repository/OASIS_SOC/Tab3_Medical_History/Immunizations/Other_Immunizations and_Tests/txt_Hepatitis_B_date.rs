@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_Hepatitis_B_date</name>
+   <tag></tag>
+   <elementGuidId>c1363275-e702-46fb-b571-28fb345ad109</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;medicalForm&quot;]/fieldset/table/tbody/tr[34]/td/table/tbody/tr[3]/td[3]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;medicalForm&quot;]/fieldset/table/tbody/tr[34]/td/table/tbody/tr[3]/td[3]/input</value>
+   </webElementProperties>
+</WebElementEntity>

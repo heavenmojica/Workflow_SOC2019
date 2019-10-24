@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>YES_chb_TB_skin_test</name>
+   <tag></tag>
+   <elementGuidId>9a91d0b6-7649-47a4-b1a8-3c0cc3d302a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;medicalForm&quot;]/fieldset/table/tbody/tr[34]/td/table/tbody/tr[2]/td[2]/div/label/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;medicalForm&quot;]/fieldset/table/tbody/tr[34]/td/table/tbody/tr[2]/td[2]/div/label/input</value>
+   </webElementProperties>
+</WebElementEntity>
